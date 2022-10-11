@@ -12,7 +12,7 @@
     "url": "git+https://github.com/Faith-Muchiri/phase-2-json.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Wambui Muchiri",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Faith-Muchiri/phase-2-json/issues"
@@ -22,5 +22,8 @@
     "json": "^11.0.0",
     "json-server": "^0.17.0",
     "server": "^1.0.37"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
   }
 }
